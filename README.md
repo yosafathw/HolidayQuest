@@ -22,7 +22,7 @@ Bapack/Emack – Kids Zaman Now dan Frugal – Sosialita.
 
 Instalasi Python dan Streamlit:
 pip install streamlit matplotlib
-streamlit run ProgramBaliHoliday.py
+streamlit run app.py
 Atau deploy langsung via Streamlit Cloud (bisa dari GitHub).
 
 🧠 Cara Kerja Aplikasi
