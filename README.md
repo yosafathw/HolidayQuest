@@ -45,13 +45,12 @@ bash
 Copy
 Edit
 .
-├── app.py
+├── ProgramBaliHoliday.py
 ├── README.md
-├── /images
-│   ├── airev.avif
-│   ├── byd.jpg
-│   ├── brio.webp
-│   └── ...
+├── airev.avif
+├── byd.jpg
+├── brio.webp
+└── ...
 Semua gambar mobil dan destinasi diambil dari repo GitHub menggunakan URL mentah (raw.githubusercontent.com)
 
 📌 Contoh Kuadran
